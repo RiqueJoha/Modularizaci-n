@@ -2,3 +2,28 @@ img{
 width: 300px;
 
 }
+
+body{
+font-size: larger;
+display: grid;
+place-content: center;
+background-color:rgb(214, 212, 231);
+
+
+}
+
+fieldset{
+    border: 2px solid rgb(10, 10, 39);
+    background-color: rgb(238, 220, 220);
+}
+
+button{
+    border: 1 px solid rgb(10, 10, 39);
+    background-color:rgb(238, 220, 220);
+
+}
+#contenedor-cantidad{
+    display: grid;
+    place-content: center;
+
+}
